@@ -1,0 +1,70 @@
+body {
+    background-image: url(./assets/woods2.jpg);
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    display:inline-block;
+}
+
+.header { 
+    font-size: 3em;
+    color: white;
+}
+
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    width: 100%;
+}
+
+.catagories-container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.categoiries {
+    display:inline-block;
+    width: 25%;
+}
+
+.preview-container{
+    height: 500px;
+    width: 100%;
+    background-color: grey;  
+    left: 0;
+}
+
+.preview {
+    width: 100%;
+    display:inline-block;
+    height: 250px;
+}
+
+.sub-header{
+    background-color:rgb(85, 134, 40);
+}
+
+.footer {
+    background-color: rgb(33, 73, 33);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.slogan{
+    text-align: center;
+    padding: 20px 0;
+}
